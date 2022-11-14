@@ -284,8 +284,4 @@ CREATE TABLE `t_user`  (
 SET FOREIGN_KEY_CHECKS = 1;
 
 ```
-欢迎关注公众号：
 
-![oneStar](https://images.newstar.net.cn/img/oneStar.jpg)
-
-博客地址：https://onestar.newstar.net.cn/
