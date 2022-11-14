@@ -109,41 +109,6 @@
 - 友链属性：网址、名称、创建时间、图片地址
 - 相册属性：图片地址、图片描述、图片名称、拍摄时间地点
 
-#### 4.表结构
-博客表：
-
-![image](https://note.youdao.com/yws/api/personal/file/6559F08528F24F7195279C5FEDF52644?method=download&shareKey=3aa33f0533b03214f163cd601fae0c9c)
-
-分类表：
-
-![image](https://note.youdao.com/yws/api/personal/file/D06135B93E2048B6924BD236BC255BDA?method=download&shareKey=f5f91a8cc8735f708cef2b1cae775231)
-
-用户表：
-
-![image](https://note.youdao.com/yws/api/personal/file/290F867E30DB4660B43DCF3DA29ED32F?method=download&shareKey=d180fe4a8e610b72bc250292a85ab1f9)
-
-评论表：
-
-![image](https://note.youdao.com/yws/api/personal/file/1B76BB89DD3545108A0116E9ABAFF35C?method=download&shareKey=44605f12ba7c296616de066f9d18edfc)
-
-
-留言表：
-
-![image](https://note.youdao.com/yws/api/personal/file/D29424D70CD44AD787B5B2BA74D0AEE2?method=download&shareKey=2070c81708cc3588f4de7fc303369df2)
-
-
-友链表：
-
-![image](https://note.youdao.com/yws/api/personal/file/0575501118154154BE53910A0D3F843B?method=download&shareKey=acf785dae919b80c235ddca9d6a1df38)
-
-
-相册表：
-
-![image](https://note.youdao.com/yws/api/personal/file/DE3BFFBA1DB5415F8C1B70E30B676BF0?method=download&shareKey=526904984ef591f552a72c6cb48e9404)
-
-
-
-
 #### 4.建表语句
 
 ```sql
@@ -284,8 +249,4 @@ CREATE TABLE `t_user`  (
 SET FOREIGN_KEY_CHECKS = 1;
 
 ```
-欢迎关注公众号：
 
-![oneStar](https://images.newstar.net.cn/img/oneStar.jpg)
-
-博客地址：https://onestar.newstar.net.cn/
