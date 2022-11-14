@@ -65,7 +65,6 @@
 
 #### 2.实体关系
 
-![image](https://note.youdao.com/yws/api/personal/file/CACBEF653E6745BF834B892952BFA816?method=download&shareKey=946ce6c8c2a0c84b107053cc254088f2)
 
 - 博客和分类是多对一的关系：一个博客对应一个分类，一个分类可以对应多个博客
 - 博客和用户是多对一的关系：一个博客对应一个用户，一个用户可以对应多个博客
@@ -77,31 +76,24 @@
 #### 3.实体属性
 博客属性：
 
-![image](https://note.youdao.com/yws/api/personal/file/CF5106DE22344BB481B3412A5BFAAAB9?method=download&shareKey=ae43526cd18465a53011fccbbe6e25c8)
 
 分类属性：
 
-![image](https://note.youdao.com/yws/api/personal/file/6C78F81369EB477B98D540266E5F4F58?method=download&shareKey=a820cfe6f3d6ebd860f0dff1b3bf8ba8)
 
 用户属性：
 
-![image](https://note.youdao.com/yws/api/personal/file/74338146706B4DB18C392C58C6287257?method=download&shareKey=2ad9cd5685461de2d57b983e85d97612)
 
 评论属性：
 
-![image](https://note.youdao.com/yws/api/personal/file/012FA484A82F47F5834BDB3FF7F1F668?method=download&shareKey=e971a831c76926da204a87ec5ac41a48)
 
 留言属性：
 
-![image](https://note.youdao.com/yws/api/personal/file/DC140E28066C4A54BAF8CDD351B4E479?method=download&shareKey=a39cdf3a8661671ac1a5de0b27a3e855)
 
 友链属性：
 
-![image](https://note.youdao.com/yws/api/personal/file/D4A2CC8BA02C4CFAA1279A8C5BF95B83?method=download&shareKey=fc02df1a79a3d6086be94758c5370918)
 
 相册属性：
 
-![image](https://note.youdao.com/yws/api/personal/file/0648E5B2CA874903919E01F8854A36E4?method=download&shareKey=ef3e79e99d83615b6020eb8e9356c8c2)
 
 
 - 博客属性：标题、内容、首图、标记、浏览次数、赞赏开启、版权开启、评论开启、是否发布、创建时间、更新时间、描述
